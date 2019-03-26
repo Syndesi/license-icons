@@ -1,0 +1,153 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?u81nne');
+  src:  url('fonts/icomoon.eot?u81nne#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?u81nne') format('truetype'),
+    url('fonts/icomoon.woff?u81nne') format('woff'),
+    url('fonts/icomoon.svg?u81nne#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  
+  /* Enable Ligatures ================ */
+  letter-spacing: 0;
+  -webkit-font-feature-settings: "liga";
+  -moz-font-feature-settings: "liga=1";
+  -moz-font-feature-settings: "liga";
+  -ms-font-feature-settings: "liga" 1;
+  font-feature-settings: "liga";
+  -webkit-font-variant-ligatures: discretionary-ligatures;
+  font-variant-ligatures: discretionary-ligatures;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-license_forbidden:before {
+  content: "\e900";
+}
+.icon-license_cc_cc:before {
+  content: "\e901";
+}
+.icon-license_cc_by:before {
+  content: "\e902";
+}
+.icon-license_cc_nc:before {
+  content: "\e903";
+}
+.icon-license_cc_sa:before {
+  content: "\e904";
+}
+.icon-license_cc_0:before {
+  content: "\e905";
+}
+.icon-license_cc_nd:before {
+  content: "\e906";
+}
+.icon-license_cc0-10:before {
+  content: "\e907";
+}
+.icon-license_cc-by-40:before {
+  content: "\e908";
+}
+.icon-license_cc-by-sa-40:before {
+  content: "\e909";
+}
+.icon-license_ecl-20:before {
+  content: "\e90a";
+}
+.icon-license_epl-10:before {
+  content: "\e90b";
+}
+.icon-license_eupl-11:before {
+  content: "\e90c";
+}
+.icon-license_gpl:before {
+  content: "\e90d";
+}
+.icon-license_gpl-20:before {
+  content: "\e90e";
+}
+.icon-license_gpl-30:before {
+  content: "\e90f";
+}
+.icon-license_isc:before {
+  content: "\e910";
+}
+.icon-license_lgpl:before {
+  content: "\e911";
+}
+.icon-license_lgpl-21:before {
+  content: "\e912";
+}
+.icon-license_lgpl-30:before {
+  content: "\e913";
+}
+.icon-license_lppl-13c:before {
+  content: "\e914";
+}
+.icon-license_mit:before {
+  content: "\e915";
+}
+.icon-license_mpl-20:before {
+  content: "\e916";
+}
+.icon-license_ms-pl:before {
+  content: "\e917";
+}
+.icon-license_ncsa:before {
+  content: "\e918";
+}
+.icon-license_ofl-11:before {
+  content: "\e919";
+}
+.icon-license_osl-30:before {
+  content: "\e91a";
+}
+.icon-license_postgresql:before {
+  content: "\e91b";
+}
+.icon-license_unlicense:before {
+  content: "\e91c";
+}
+.icon-license_wtfpl:before {
+  content: "\e91d";
+}
+.icon-license_zlib:before {
+  content: "\e91e";
+}
+.icon-license_afl-30:before {
+  content: "\e91f";
+}
+.icon-license_agpl-30:before {
+  content: "\e920";
+}
+.icon-license_apache-20:before {
+  content: "\e921";
+}
+.icon-license_artistic-20:before {
+  content: "\e922";
+}
+.icon-license_bsd-2-clause:before {
+  content: "\e923";
+}
+.icon-license_bsd-3-clause:before {
+  content: "\e924";
+}
+.icon-license_bsd-3-clause-clear:before {
+  content: "\e925";
+}
+.icon-license_bsl-10:before {
+  content: "\e926";
+}
