@@ -1,0 +1,12 @@
+{
+  "name": "syndesi-license-icons",
+  "version": "1.0.0",
+  "description": "Icons for many different licences, available as .ai, .svg and .png",
+  "author": "Syndesi <soerenklein98@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Syndesi/license-icons.git"
+  },
+  "homepage": "https://github.com/Syndesi/license-icons"
+}
